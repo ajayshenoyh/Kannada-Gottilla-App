@@ -1,5 +1,5 @@
 # Kannada-Gottilla-App
-A Chatting app for learning language
+A Chatting app for learning language<br />
 • Android application which will help users to learn regional language through an interactive way.<br />
 • Technologies used: Java, XML, PHP, JSON, MySQL.<br />
 
